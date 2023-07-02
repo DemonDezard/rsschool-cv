@@ -1,4 +1,4 @@
-<h2><p>Mikhail Melnik</p></h2>
+<h1><p>Mikhail Melnik</p></h1>
 <h3><b><p>Contact information:</p></b></h3>
 <p>E-mail: Mister0apple@gmail.com</p>
 <p>Telegram: @demondezard</p>
